@@ -12,7 +12,7 @@ I build fast, accessible frontends for products used by millions, and I like the
 - **RBC Capital Markets**: data-heavy risk dashboards (AG Grid, Plotly, RxJS) and a headless Node.js service that turned a daily manual task for dozens of brokers into a single click.
 - **PGL Esports**: live broadcast graphics for 10+ esports world championships, with up to 2.7M concurrent viewers, including the Sports Emmy-winning broadcast of The International 10.
 
-Case studies: **[sadovei.dev](https://sadovei.dev)**
+Case studies: **[sadovei.dev](https://sadovei.dev/?ref=github)**
 
 ### What I focus on
 
@@ -33,7 +33,7 @@ Most of my client work lives in private repositories, so what you see here is my
 
 Available for remote B2B contracts through my company, Sadovei Software Company.
 
-- Website: [sadovei.dev](https://sadovei.dev)
+- Website: [sadovei.dev](https://sadovei.dev/?ref=github)
 - Book a 20-minute intro call: [cal.com/radu-sadovei/intro](https://cal.com/radu-sadovei/intro)
 - LinkedIn: [linkedin.com/in/radu-sadovei](https://www.linkedin.com/in/radu-sadovei/)
 - Email: [contact@sadovei.dev](mailto:contact@sadovei.dev)
